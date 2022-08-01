@@ -1,5 +1,4 @@
-Python implementation: CPython
-Python version       : 3.9.12
+CPython version       : 3.9.12
 IPython version      : 8.2.0
 numpy     : 1.21.5
 matplotlib: 3.5.1
